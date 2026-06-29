@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://otoharirisa.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'KitsuneSame'
+theme = "theme-stack"
