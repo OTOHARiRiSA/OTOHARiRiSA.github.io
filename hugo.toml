@@ -2,3 +2,4 @@ baseURL = 'https://otoharirisa.github.io/'
 locale = 'en-us'
 title = 'KitsuneSame'
 theme = "theme-stack"
+publishDir = "."
