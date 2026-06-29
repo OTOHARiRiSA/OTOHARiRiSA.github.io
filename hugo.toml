@@ -1,5 +1,9 @@
 baseURL = 'https://otoharirisa.github.io/'
 locale = 'en-us'
-title = 'KitsuneSame'
+title = 'This is a ordinary githubio website'
 theme = "theme-stack"
 publishDir = "."
+favicon = "img/favicon.png" # --> assets/img/favicon.png
+[sidebar]
+    avatar = "img/avatar.png" # --> assets/img/avatar.png
+    subtitle = 'Super Fans of Furina de Fontaine'
